@@ -1,7 +1,7 @@
 # IT3290_Thuc_hanh_c-_so_du_lieu
 Các bước để chạy web: 
 
-Bước 1: git clone : https://github.com/VAnhNguyen2401/Web.git
+Bước 1: git clone
 
 Bước 2: chạy bằng VSCode
 
