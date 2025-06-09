@@ -1,4 +1,4 @@
-# IT3290_Thuc_hanh_c-_so_du_lieu
+# IT3290_Thuc_hanh_co_so_du_lieu
 Các bước để chạy web: 
 
 Bước 1: git clone
